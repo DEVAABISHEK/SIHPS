@@ -12,9 +12,7 @@ Ministry of Environment
 ## Idea
 The website will serve as a platform connecting individuals and businesses looking to recycle their electronic waste with certified recycling centers. It will provide information on the importance of e-waste recycling, guidelines on how to properly dispose of electronic devices, and facilitate the process of finding nearby recycling centers. Additionally, the website can incorporate features for tracking the environmental impact of recycling efforts, educational resources on sustainable electronics consumption, and a community forum for discussions on e-waste management practices.
 ## Proposed Solution / Architecture Diagram
-![1-s2 0-S0959652622015219-ga1](https://github.com/DEVAABISHEK/SIHPS/assets/150319305/741889d1-e200-4142-aa17-a5f6e8e267c8)
-
-
+![Smart-Waste-Management-](https://github.com/DEVAABISHEK/SIHPS/assets/150319305/5e5a2274-167b-4bcc-90a2-7f5a3b865705)
 
 ## Use Cases
 ## 1.Find Recycling Centers
